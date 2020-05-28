@@ -1,0 +1,120 @@
+{
+  categories: [
+    {
+      "emoji": "😂",
+      "stickerpack": "EmojiLaughTeaer"
+    },
+    {
+      "emoji": "\ud83d\ude1a",
+      "stickerpack": "emojiAngry"
+    },
+    {
+      "emoji": "\ud83d\ude1a",
+      "stickerpack": "EmojiAngryWithFire"
+    },
+    {
+      "emoji": "😎",
+      "stickerpack": "emojiCoolGlasses"
+    },
+    {
+      "emoji": "😘",
+      "stickerpack": "EmojiBlowKiss"
+    },
+    {
+      "emoji": "👋",
+      "stickerpack": "EmojiCry"
+    },
+    {
+      "emoji": "\ud83d\ude1a",
+      "stickerpack": "EmojiThinking"
+    },
+    {
+      "emoji": "😱",
+      "stickerpack": "EmojiScaredShock"
+    },
+    {
+      "emoji": "\ud83d\ude1a",
+      "stickerpack": "EmojiQuestionMark"
+    },
+    {
+      "emoji": "\ud83d\ude1a",
+      "stickerpack": "EmojiIDK"
+    },
+    {
+      "emoji": "😔",
+      "stickerpack": "EmojiEmptyFace"
+    },
+    {
+      "emoji": "\ud83d\ude1a",
+      "stickerpack": "EmojiWinter"
+    },
+    {
+      "emoji": "😡",
+      "stickerpack": "EmojiSad"
+    },
+    {
+      "emoji": "⛄"",
+      "stickerpack": "EmojiWinter"
+    },
+    {
+      "emoji": "\ud83d\ude1a",
+      "stickerpack": "EmojiCelebrate"
+    },
+    {
+      "emoji": "\ud83d\ude1a",
+      "stickerpack": "EmojiDrink"
+    },
+    {
+      "emoji": "\ud83d\ude1a",
+      "stickerpack": "EmojiEat"
+    },
+    {
+      "emoji": "\ud83d\ude1a",
+      "stickerpack": "EmojiStalk"
+    },
+    {
+      "emoji": "\ud83d\ude1a",
+      "stickerpack": "EmojiAngel"
+    },
+    {
+      "emoji": "\ud83d\ude1a",
+      "stickerpack": "EmojiGym"
+    },
+    {
+      "emoji": "😢",
+      "stickerpack": "EmojiAlmostCry"
+    },
+    {
+      "emoji": "\ud83d\ude1a",
+      "stickerpack": "EmojiDislike"
+    },
+    {
+      "emoji": "\ud83d\ude1a",
+      "stickerpack": "EmojiBoringFace"
+    },
+    {
+      "emoji": "\ud83d\ude1a",
+      "stickerpack": "EmojiCloseMouth"
+    },
+    {
+      "emoji": "\ud83d\ude1a",
+      "stickerpack": "EmojiHeartSign"
+    },
+    {
+      "emoji": "\ud83d\ude1a",
+      "stickerpack": "EmojiHeartBreak"
+    },
+    {
+      "emoji": "\ud83d\ude1a",
+      "stickerpack": "EmojiEvil"
+    },
+    {
+      "emoji": "\ud83d\ude1a",
+      "stickerpack": "EmojiFacepalm"
+    },
+    {
+      "emoji": "👋",
+      "stickerpack": "EmojiHiHello"
+    }
+  ]
+}
