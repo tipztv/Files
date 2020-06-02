@@ -6,11 +6,6 @@
       "stickerpack": "EmojiLaughTeaer"
     },
     {
-      "emoji": "ðŸ˜",
-      "url": "https://raw.githubusercontent.com/tipztv/Files/master/emoji_u1f44d.png",
-      "stickerpack": "EmojiLike"
-    },
-    {
       "emoji": "\ud83d\ude1a",
       "url": "https://raw.githubusercontent.com/tipztv/Files/master/emoji_u1f620.png",
       "stickerpack": "emojiAngry"
@@ -104,6 +99,11 @@
       "emoji": "ðŸ˜¢",
       "url": "https://raw.githubusercontent.com/tipztv/Files/master/emoji_u1f622.png",
       "stickerpack": "EmojiAlmostCry"
+    },
+    {
+      "emoji": "ðŸ˜",
+      "url": "https://raw.githubusercontent.com/tipztv/Files/master/emoji_u1f44d.png",
+      "stickerpack": "EmojiLike"
     },
     {
       "emoji": "\ud83d\ude1a",
