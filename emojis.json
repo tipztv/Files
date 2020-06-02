@@ -72,6 +72,11 @@
     },
     {
       "emoji": "\ud83d\ude1a",
+      "url": "https://raw.githubusercontent.com/tipztv/Files/master/emoji_u2764.png",
+      "stickerpack": "EmojiHeartSign"
+    },
+    {
+      "emoji": "\ud83d\ude1a",
       "url": "https://raw.githubusercontent.com/tipztv/Files/master/emoji_u1f494.png",
       "stickerpack": "EmojiHeartBreak"
     },
@@ -129,11 +134,6 @@
       "emoji": "\ud83d\ude1a",
       "url": "https://raw.githubusercontent.com/tipztv/Files/master/emoji_u1f44e.png",
       "stickerpack": "EmojiDislike"
-    },
-    {
-      "emoji": "\ud83d\ude1a",
-      "url": "https://raw.githubusercontent.com/tipztv/Files/master/emoji_u2764.png",
-      "stickerpack": "EmojiHeartSign"
     },
     {
       "emoji": "\ud83d\ude1a",
