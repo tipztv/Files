@@ -41,6 +41,31 @@
       "stickerpack": "EmojiScaredShock"
     },
     {
+      "emoji": "ðŸ˜”",
+      "url": "https://raw.githubusercontent.com/tipztv/Files/master/emoji_u1f610.png",
+      "stickerpack": "EmojiEmptyFace"
+    },
+    {
+      "emoji": "ðŸ˜¡",
+      "url": "https://raw.githubusercontent.com/tipztv/Files/master/emoji_u1f61e.png",
+      "stickerpack": "EmojiSad"
+    },
+    {
+      "emoji": "ðŸ˜¢",
+      "url": "https://raw.githubusercontent.com/tipztv/Files/master/emoji_u1f622.png",
+      "stickerpack": "EmojiAlmostCry"
+    },
+    {
+      "emoji": "\ud83d\ude1a",
+      "url": "https://raw.githubusercontent.com/tipztv/Files/master/emoji_u1f612.png",
+      "stickerpack": "EmojiBoringFace"
+    },
+    {
+      "emoji": "\ud83d\ude1a",
+      "url": "https://raw.githubusercontent.com/tipztv/Files/master/emoji_u1f910.png",
+      "stickerpack": "EmojiCloseMouth"
+    },
+    {
       "emoji": "\ud83d\ude1a",
       "url": "https://raw.githubusercontent.com/tipztv/Files/master/emoji_u2753.png",
       "stickerpack": "EmojiQuestionMark"
@@ -51,19 +76,9 @@
       "stickerpack": "EmojiIDK"
     },
     {
-      "emoji": "ðŸ˜”",
-      "url": "https://raw.githubusercontent.com/tipztv/Files/master/emoji_u1f610.png",
-      "stickerpack": "EmojiEmptyFace"
-    },
-    {
       "emoji": "\ud83d\ude1a",
       "url": "https://raw.githubusercontent.com/tipztv/Files/master/emoji_u2603.png",
       "stickerpack": "EmojiWinter"
-    },
-    {
-      "emoji": "ðŸ˜¡",
-      "url": "https://raw.githubusercontent.com/tipztv/Files/master/emoji_u1f61e.png",
-      "stickerpack": "EmojiSad"
     },
     {
       "emoji": "\ud83d\ude1a",
@@ -96,11 +111,6 @@
       "stickerpack": "EmojiGym"
     },
     {
-      "emoji": "ðŸ˜¢",
-      "url": "https://raw.githubusercontent.com/tipztv/Files/master/emoji_u1f622.png",
-      "stickerpack": "EmojiAlmostCry"
-    },
-    {
       "emoji": "ðŸ˜",
       "url": "https://raw.githubusercontent.com/tipztv/Files/master/emoji_u1f44d.png",
       "stickerpack": "EmojiLike"
@@ -109,16 +119,6 @@
       "emoji": "\ud83d\ude1a",
       "url": "https://raw.githubusercontent.com/tipztv/Files/master/emoji_u1f44e.png",
       "stickerpack": "EmojiDislike"
-    },
-    {
-      "emoji": "\ud83d\ude1a",
-      "url": "https://raw.githubusercontent.com/tipztv/Files/master/emoji_u1f612.png",
-      "stickerpack": "EmojiBoringFace"
-    },
-    {
-      "emoji": "\ud83d\ude1a",
-      "url": "https://raw.githubusercontent.com/tipztv/Files/master/emoji_u1f910.png",
-      "stickerpack": "EmojiCloseMouth"
     },
     {
       "emoji": "\ud83d\ude1a",
