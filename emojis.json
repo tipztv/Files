@@ -1,9 +1,14 @@
 {
   "categories": [
     {
-      "emoji": "ðŸ˜‚",
+      "emoji": "ðŸ˜",
       "url": "https://raw.githubusercontent.com/tipztv/Files/master/emoji_u1f602.png",
       "stickerpack": "EmojiLaughTeaer"
+    },
+    {
+      "emoji": "ðŸ˜",
+      "url": "https://raw.githubusercontent.com/tipztv/Files/master/emoji_u1f44d.png",
+      "stickerpack": "EmojiLike"
     },
     {
       "emoji": "\ud83d\ude1a",
