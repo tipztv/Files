@@ -16,6 +16,11 @@
       "stickerpack": "EmojiBlowKiss"
     },
     {
+      "emoji": "ðŸ˜˜",
+      "url": "https://raw.githubusercontent.com/tipztv/Files/master/emoji_u1f60a.png",
+      "stickerpack": "EmojiLightSmile"
+    },
+    {
       "emoji": "\ud83d\ude1a",
       "url": "https://raw.githubusercontent.com/tipztv/Files/master/emoji_u1f620.png",
       "stickerpack": "emojiAngry"
@@ -67,8 +72,23 @@
     },
     {
       "emoji": "\ud83d\ude1a",
+      "url": "https://raw.githubusercontent.com/tipztv/Files/master/emoji_u1f60f.png",
+      "stickerpack": "EmojiSmirk"
+    },
+    {
+      "emoji": "\ud83d\ude1a",
       "url": "https://raw.githubusercontent.com/tipztv/Files/master/emoji_u1f910.png",
       "stickerpack": "EmojiCloseMouth"
+    },
+    {
+      "emoji": "\ud83d\ude1a",
+      "url": "https://raw.githubusercontent.com/tipztv/Files/master/emoji_u1f927.png",
+      "stickerpack": "EmojiSick"
+    },
+    {
+      "emoji": "\ud83d\ude1a",
+      "url": "https://raw.githubusercontent.com/tipztv/Files/master/emoji_u1f634.png",
+      "stickerpack": "EmojiSleep"
     },
     {
       "emoji": "\ud83d\ude1a",
@@ -84,6 +104,11 @@
       "emoji": "\ud83d\ude1a",
       "url": "https://raw.githubusercontent.com/tipztv/Files/master/emoji_u1f494.png",
       "stickerpack": "EmojiHeartBreak"
+    },
+    {
+      "emoji": "\ud83d\ude1a",
+      "url": "https://raw.githubusercontent.com/tipztv/Files/master/emoji_u1f381.png",
+      "stickerpack": "EmojiGift"
     },
     {
       "emoji": "\ud83d\ude1a",
@@ -122,8 +147,13 @@
     },
     {
       "emoji": "\ud83d\ude1a",
-      "url": "https://raw.githubusercontent.com/tipztv/Files/master/emoji_u1f355.png",
-      "stickerpack": "EmojiEat"
+      "url": "https://raw.githubusercontent.com/tipztv/Files/master/emoji_u1f942.png",
+      "stickerpack": "EmojiDrink"
+    },
+    {
+      "emoji": "\ud83d\ude1a",
+      "url": "https://raw.githubusercontent.com/tipztv/Files/master/emoji_u2615.png",
+      "stickerpack": "EmojiTea"
     },
     {
       "emoji": "\ud83d\ude1a",
